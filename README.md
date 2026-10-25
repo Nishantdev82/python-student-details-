@@ -36,6 +36,7 @@ A simple Python game where the computer selects a random number between 1 and 10
 - Beginner-friendly Python project
 
 ### How to Run
+
 1. Install Python.
 2. Download `number_guessing_game.py`.
 3. Open the terminal in the file's folder.
@@ -53,5 +54,37 @@ python number_guessing_game.py
 - Random module
 - Break statement
 
-## 🤝 Connect With Me
-Thanks for visiting my GitHub profile!
+## 🎓 Student Management System (Python)
+
+A Python project to manage student records easily.
+
+### Features
+- Add new students
+- View all students
+- Search students by roll number
+- Delete student records
+- Update student details
+- Prevent duplicate roll numbers
+- Validate marks between 0 and 100
+- Save student records permanently in a JSON file
+
+### Concepts Used
+- Python variables and dictionaries
+- Lists and loops
+- If-elif-else conditions
+- Functions and input validation
+- JSON file handling
+- Exception handling
+
+### How to Run
+```bash
+python student_management.py
+```
+
+**Status:** Completed and uploaded to GitHub.
+
+## 🤝 Thanks for Visiting My GitHub Profile!
+
+⭐ Thanks for checking out my projects.  
+💻 I'm learning Python and Web Development step by step.  
+🚀 More projects coming soon!
